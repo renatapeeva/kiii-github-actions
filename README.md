@@ -1,1 +1,1 @@
-# kiii-github-actions
+# Sample project for the KIII (DevOps) Course
